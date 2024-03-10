@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fntSizeButton">12pt</dimen>
+    <dimen name="fntSizeTextView">20pt</dimen>
+    <dimen name="sizeTag">20pt</dimen>
+    <dimen name="sizeInput">22pt</dimen>
+</resources>

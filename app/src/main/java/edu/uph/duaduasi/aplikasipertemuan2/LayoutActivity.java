@@ -12,7 +12,7 @@ public class LayoutActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.layout_main);
+        setContentView(R.layout.layout_activity);
         btnOke = (Button) findViewById(R.id.btnOke);
         btnOke.setBackgroundColor(Color.BLACK);
     }
